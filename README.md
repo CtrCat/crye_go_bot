@@ -17,7 +17,8 @@ Create config.json to test bot operation
 
 Later
 -----
-Test the bot by creating a Telegram bot token and a Utopia token.
+Test the bot by creating a Telegram bot token and crp.is public key and password
+`.
 
 And integrate the necessary methods and other APIs into the work of the bot.
 
